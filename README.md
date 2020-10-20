@@ -1,6 +1,6 @@
 # VitaminAir Technologies
 
-List of Technology to do of the VA Project
+Technologies that is being in R&D at VitaminAir.
 
 ### Main
 
